@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "buld": "npx tailwindcss -i ./PHP/input.css -o ./PHP/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
